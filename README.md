@@ -16,6 +16,7 @@ Attach the script to a single GameObject to have a fully functional user interfa
 
 # Issues
 * Only works with the new inputsystem.
+* Some parts are slightly hardcoded
 
 # WIP
 * Support for both inputsystems
