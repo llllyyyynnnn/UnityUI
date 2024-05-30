@@ -91,8 +91,8 @@ public class LynnUI : MonoBehaviour, InputActions.IUIActions
         GUI.skin.font = font;
         GUIStyle label = GUI.skin.label;
 
-        string title = "RACCOON";
-        string title2 = "GAME";
+        string title = "LYNN";
+        string title2 = "UI";
 
         label.fontSize = titleSize;
 
