@@ -7,6 +7,7 @@ Attach the script to a single GameObject to have a fully functional user interfa
 * Quick and easy implementation
 * No canvas system required
 * Notification system (message, duration, animations)
+* Multiple resolution support
 
 # Requirements
 * InputActions with a "UI" template
