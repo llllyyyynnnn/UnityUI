@@ -15,11 +15,11 @@ Attach the script to a single GameObject to have a fully functional user interfa
 * Cancel (Escape)
 
 # Issues
-* Only works with the new inputsystem.
+* Only works with the new InputSystem.
 * Some parts are slightly hardcoded
 
 # WIP
-* Support for both inputsystems
+* Support for both InputSystems
 * Code cleanup
 
 After the InputActions have been made, the script should immediately work as it should. If nothing shows up, make sure the serialized color variables are set to actual colors that have alpha > 0. A gradient can be added (as well as any other image) by attaching it to the script, alongside 3 fonts. 
