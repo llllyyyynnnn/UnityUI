@@ -8,6 +8,7 @@ Attach the script to a single GameObject to have a fully functional user interfa
 * No canvas system required
 * Notification system (message, duration, animations)
 * Multiple resolution support
+* Reset, quit & play button
 
 # Requirements
 * InputActions with a "UI" template
@@ -22,6 +23,7 @@ Attach the script to a single GameObject to have a fully functional user interfa
 # WIP
 * Support for both InputSystems
 * Code cleanup
+* Settings / tab support
 
 ![screenshot](screenshot.png)
 
